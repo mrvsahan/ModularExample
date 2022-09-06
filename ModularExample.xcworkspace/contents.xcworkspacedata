@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ModularExample/ModularExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Settings/Settings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Integration/Integration.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Account/Account.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tracker/Tracker.xcodeproj">
+   </FileRef>
+</Workspace>
